@@ -1,0 +1,11 @@
+director,genre,avg_imdb_rating_outof10,no_of_movies
+"Christopher Nolan","Action, Crime, Drama",9.0,4
+"Quentin Tarantino","Crime, Drama",8.9,7
+"Peter Jackson","Action, Adventure, Drama",8.8,3
+"Christopher Nolan","Action, Adventure, Sci-Fi",8.8,4
+"Christopher Nolan","Adventure, Drama, Sci-Fi",8.6,4
+"Akira Kurosawa","Action, Adventure, Drama",8.6,5
+"Alfred Hitchcock","Horror, Mystery, Thriller",8.5,7
+"Ridley Scott","Action, Adventure, Drama",8.5,3
+"Martin Scorsese","Crime, Drama, Thriller",8.5,6
+"Charles Chaplin","Comedy, Drama, Family",8.5,3
